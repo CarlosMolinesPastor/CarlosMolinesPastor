@@ -11,3 +11,4 @@
 - ⚡ Fun fact: Dancing, listening to music and riding a motorcycle, apart from programming
 
 [![karlinux's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMolinesPastor)](https://github.com/CarlosMolinesPastor/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMolinesPastor)](https://github.com/anuraghazra/github-readme-stats)
